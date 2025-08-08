@@ -2,8 +2,7 @@
 📍 Kolkata, India | [LinkedIn](https://www.linkedin.com/in/akhmondal) | [X](https://x.com/akshnotes)
 
 
-I help businesses make better decisions by turning raw data into clear, actionable insights.  
-Skilled in data analysis, dashboarding, and reporting that drives real business impact.
+Aspiring Data Analyst with expertise in data visualisation, wrangling, statistical analysis, and predictive modelling. Proficient in SQL, Python, Power BI, Tableau, and Excel, with hands-on experience in ETL, automation, and dashboarding. Strong problem-solving skills, eager to apply analytical expertise in a data-driven environment.
 
 ---
 
