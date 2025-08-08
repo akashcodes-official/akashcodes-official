@@ -33,6 +33,9 @@ Aspiring Data & Business Analyst with expertise in data visualisation, wrangling
 - Cleaned and transformed raw layoff data using SQL (deduplication, text standardisation, date formatting)  
 - Analysed trends showing peak layoffs in Jan 2023 and major impact on U.S. tech hubs  
 
+### 🏨 [Hotel Booking Data Analysis](https://github.com/akashcodes-official/hotel_booking_analysis)  
+- Analysed booking data to uncover key drivers of cancellations, pricing trends, and guest behaviour  
+- Found high cancellations linked to higher prices (ADR), with August and January being critical months for booking and cancellation patterns  
 
 🔗 [View My Projects](https://github.com/akashcodes-official?tab=repositories)
 
