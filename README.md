@@ -6,7 +6,7 @@ Aspiring Data Analyst with expertise in data visualisation, wrangling, statistic
 
 ---
 
-## 🔧 Skills
+## SKILLS
 Data Analysis & Visualisation: Excel, Power BI, Tableau, Matplotlib, Seaborn
 
 Programming & Scripting: Python (Pandas, NumPy, Scikit-learn), SQL
