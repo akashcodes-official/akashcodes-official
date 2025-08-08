@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Akash Mondal  
+# Hi, I'm Akash Mondal  
 📍 Kolkata, India | [LinkedIn](https://www.linkedin.com/in/akhmondal) | [X](https://x.com/akshnotes)
 
 
