@@ -29,11 +29,10 @@ Aspiring Data & Business Analyst with expertise in data visualisation, wrangling
 - Data Cleaning & Preprocessing
 
 ---
-## 📊 Projects
-- **Sales Dashboard:** Identified 15% growth opportunities  
-- **Vendor Scorecard:** Cut evaluation time by 60%  
-- **KPI Automation:** Built multi-metric Python reports  
-- **Real-Time Dashboards:** Live Power BI integration  
+### 📊 [SQL Layoffs Data Cleaning & EDA (2020–2023)](https://github.com/akashcodes-official/Sql-project)  
+- Cleaned and transformed raw layoff data using SQL (deduplication, text standardisation, date formatting)  
+- Analysed trends showing peak layoffs in Jan 2023 and major impact on U.S. tech hubs  
+
 
 🔗 [View My Projects](https://github.com/akashcodes-official?tab=repositories)
 
