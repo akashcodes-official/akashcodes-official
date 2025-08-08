@@ -1,9 +1,7 @@
 # 👋 Hi, I'm Akash Mondal  
-📍 Kolkata, India | [LinkedIn](#) | [X (Twitter)](#)
+📍 Kolkata, India | [LinkedIn](https://www.linkedin.com/in/akhmondal/) | [X (Twitter)](https://x.com/akshnotes)
 
-🎯 **Aspiring Data Analyst** with a strong foundation in data visualisation, data wrangling, statistical analysis, and predictive modelling.  
-💡 Proficient in **SQL, Python, Power BI, Tableau, and Excel**, with hands-on experience in ETL processes, automation, and interactive dashboard creation.  
-🔍 Passionate about solving problems using data and eager to apply analytical expertise in a data-driven environment.
+Aspiring Data & Business Analyst with expertise in data visualisation, wrangling, statistical analysis, and predictive modelling. Proficient in SQL, Python, Power BI, Tableau, and Excel, with hands-on experience in ETL, automation, and dashboarding. Strong problem-solving skills, eager to apply analytical expertise in a data-driven environment.
 
 ---
 
