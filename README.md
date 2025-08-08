@@ -7,10 +7,12 @@ Aspiring Data Analyst with expertise in data visualisation, wrangling, statistic
 ---
 
 ## 🔧 Skills
-- **SQL** (MySQL, PostgreSQL) – Complex queries, data cleaning  
-- **Python** (Pandas, NumPy, Matplotlib) – EDA & automation  
-- **Power BI & Excel** – Dashboards & analytics  
-- Statistical analysis | BI reporting | Generative AI in analytics  
+Data Analysis & Visualisation: Excel, Power BI, Tableau, Matplotlib, Seaborn
+Programming & Scripting: Python (Pandas, NumPy, Scikit-learn), SQL
+Machine Learning: Supervised & Unsupervised Learning & Regression
+Database Management: MySQL, PostgreSQL
+Automation & ETL: Power Query, Python Automation
+Statistical Analysis: Hypothesis Testing, A/B Testing, Data Cleaning
 
 ---
 
