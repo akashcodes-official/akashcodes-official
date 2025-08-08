@@ -35,7 +35,12 @@ Aspiring Data & Business Analyst with expertise in data visualisation, wrangling
 
 ### 🏨 [Hotel Booking Data Analysis](https://github.com/akashcodes-official/hotel_booking_analysis)  
 - Analysed booking data to uncover key drivers of cancellations, pricing trends, and guest behaviour  
-- Found high cancellations linked to higher prices (ADR), with August and January being critical months for booking and cancellation patterns  
+- Found high cancellations linked to higher prices (ADR), with August and January being critical months for booking and cancellation patterns
+
+### 💳 [Credit Card Performance Dashboard (SQL + Power BI)](https://github.com/akashcodes-official/credit_card_financial_report)  
+- Built an interactive Power BI dashboard using cleaned MySQL data to track revenue, customer behaviour, and card performance  
+- Identified ₹57M in revenue trends, 5.06% delinquency rate, and growth opportunities in underutilised premium cards and regions  
+
 
 🔗 [View My Projects](https://github.com/akashcodes-official?tab=repositories)
 
