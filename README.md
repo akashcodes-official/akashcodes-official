@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Akash Mondal  
-📍 Kolkata, India | [LinkedIn](https://www.linkedin.com/in/akhmondal)
+📍 Kolkata, India | [LinkedIn](https://www.linkedin.com/in/akhmondal) | [X](https://x.com/akshnotes)
 
 
 I help businesses make better decisions by turning raw data into clear, actionable insights.  
